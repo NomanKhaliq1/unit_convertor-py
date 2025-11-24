@@ -1,0 +1,12 @@
+{
+  "title": "Unit Convertor",
+  "description": "Streamlit app for converting length, weight, and speed units with instant results.",
+  "techTags": ["Python", "Streamlit"],
+  "source": "github",
+  "category": "Python",
+  "live_url": "https://unitconvertor-py.streamlit.app/",
+  "repo_name": "unit_convertor-py",
+  "repo_link": true,
+  "image": "/projects/unit-convertor-py.webp",
+  "fetch": true
+}
